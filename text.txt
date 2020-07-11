@@ -26,3 +26,9 @@ Restore file
 
 Add to github server
 >>git push
+
+when you update in branch 
+>>git pull origin master -r
+
+Delete branch
+git branch -d cc
