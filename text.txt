@@ -1,2 +1,34 @@
-i want to be programmer
-Naruth Sithasom
+2020/07/11
+How to use command for github
+
+when you create branch new file
+>>git branch bb
+
+when you watching to list branch
+>>git branch --list
+>>git branch
+    master
+    aa
+    bb
+    *cc
+
+when you change to new branch
+>>git checkout bb 
+
+when you change to master 
+>> git checkout master -f
+
+Delete file
+>> rm file-1.txt
+
+Restore file
+>>git reset --hard
+
+Add to github server
+>>git push
+
+when you update in branch 
+>>git pull origin master -r
+
+Delete branch
+git branch -d cc
