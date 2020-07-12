@@ -1,4 +1,5 @@
 update data in develop
+merge data in feature-1
 How to use command for github
 
 when you create branch new file
