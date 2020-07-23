@@ -29,3 +29,5 @@ Add to github server
 
 when you update in branch 
 >>git pull origin master -r
+
+>>git push --set-upstream origin NewBranch
