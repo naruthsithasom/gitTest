@@ -1,0 +1,10 @@
+h1{
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 4rem; /* 16px x4 */
+  padding: 1rem;
+}
+body{
+  background-color: greenyellow;
+}
