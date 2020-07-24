@@ -8,12 +8,28 @@
       color: white;
       background-color: black;
       text-align: center;
+      font-size: 4rem; /* 16px x4 */
     }
     body{
       background-color: greenyellow;
     }
   </style>
   <body>
+    <input id="in1" type="text" placeholder="Text color">
+    <input id="in2" type="text" placeholder="Background color">
+    <button onclick="changeColor()">Change color</button>
     <h1>Hello</h1>
+    
+    <script>
+    function changeColor(){
+      // alert("change color run")
+      let tcolor = document.querySelector('#in1').value
+      let bcolor = document.querySelector('#in2').value
+
+      document.querySelector('h1').style.color = tcolor
+      document.querySelector('h1').style.backgroundColor = bcolor
+    }
+
+    </script>
   </body>
 </html>
