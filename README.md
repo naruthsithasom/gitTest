@@ -1,5 +1,3 @@
-project:Github learning
-create: Naruth Sithasom
 # h1
 ## h2
 ### h3
