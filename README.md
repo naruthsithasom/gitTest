@@ -5,7 +5,7 @@
 ##### h5
 ###### h6
 
-spacebar 2time = br__  
+spacebar 2t is newline
 fadsfads__   
 asdf
 
