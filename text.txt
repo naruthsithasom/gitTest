@@ -31,3 +31,5 @@ when you update in branch
 >>git pull origin master -r
 
 >>git push --set-upstream origin NewBranch
+
+>>git merge slave_branch
