@@ -33,3 +33,4 @@ when you update in branch
 >>git push --set-upstream origin NewBranch
 
 >>git merge slave_branch
+==
