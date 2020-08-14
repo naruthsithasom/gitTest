@@ -35,6 +35,7 @@ when you update in branch
 >>git merge slave_branch
 ==
 adfaf
+axax
 sdfds
 sdfdf
 sdf
