@@ -41,15 +41,19 @@ __bold__
 [แสดงชื่อlink ใต้รูป thairath logo](https://user-images.githubusercontent.com/25115342/34331445-78c744c2-e959-11e7-8bfe-71db8b1fd267.png)  
 ----  
 # การสร้างตาราง Table  
-| header 1 | header 2 |  
---|--  
-| Col1 Row1 | Col2 Row1|  
+| header 1 position in center| This is header 2 in potision right  |  
+|:--------:|-------------:|
+| Col1 "thi is table "Row1 | Col2 Row1 |  
 | Col1 Row2  | Col2 Row2  |  
 | Col1 Row3  | Col2 Row3  |  
 | Col1 Row4  | Col2 Row4  |  
-| **content** | _content_ |  
+| **content blod** | _content italic_ |  
 ---  
-
+| position 1 center  | position 2 center|  
+|:---:|:---:|  
+|us| America|  
+|th| Thailand|  
+|jp|Japanses|  
 
 
 
