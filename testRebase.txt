@@ -2,7 +2,6 @@ test rebase
 develop>>: 1 + 1 
 feature-1>>: 2  
 feature-2: this is merge.
-<<<<<<< HEAD
 
 
 
@@ -12,6 +11,5 @@ line 9
 line 11
 
 line 13
-=======
-develop: say hi.
->>>>>>> ef0568c2bf1dd19a1530cebe534694b42ecbb558
+
+
