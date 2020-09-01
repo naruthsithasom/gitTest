@@ -21,4 +21,11 @@ bc9fd46
 bc9fd46
 bc9fd46
 $ git checkout -b branch03 bc9fd46
+<<<<<<< HEAD
 line 24 create in develop
+=======
+
+$git diff feature-1 develop
+------------
+Line 27 create in feature-1
+>>>>>>> feature-1

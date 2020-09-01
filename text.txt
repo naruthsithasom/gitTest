@@ -1,4 +1,5 @@
-2020/07/11
+update data in develop
+merge data in feature-1
 How to use command for github
 
 when you create branch new file
@@ -30,6 +31,11 @@ Add to github server
 when you update in branch 
 >>git pull origin master -r
 
+<<<<<<< HEAD
+Delete branch
+git branch -d cc
+=======
 >>git push --set-upstream origin NewBranch
 
 >>git merge slave_branchddsdsds
+>>>>>>> master

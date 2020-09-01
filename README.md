@@ -1,3 +1,21 @@
+<<<<<<< HEAD
+
+# using branch develop
+project:Github learning
+create: Naruth Sithasom
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+
+spacebar2t = br__  
+fadsfads__   
+asdf
+
+*italic i*  
+=======
 # การใช้คำสั่ง markdown ใน git  
 # ใช้ # จะเท่าขนาด h1  
 ## ใช้ ## จะเท่าขนาด h2  
@@ -9,11 +27,22 @@
 *Spacebar 2Click is newline*  
 # การใช้ตัวเอียงและตัวหนา #  
 *italic*   
+>>>>>>> master
 _italic_  
 **bold**  
 __bold__  
 *__Bold & Italic__*  
 **_Bold and Italic_**  
+<<<<<<< HEAD
+>ul
+>>li  
+>>li   
+
+1. number 1
+22.  number 2
+332434.    number 455   
+
+=======
 ---  
 # การใช้ List ul,li and number(1,2,3..)  
 >(ul)  program
@@ -28,6 +57,7 @@ __bold__
 22.  number 2  
 332434.    number 455  
 ---  
+>>>>>>> master
 + list 1
 - list 2
 * list 3  
