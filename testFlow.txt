@@ -29,3 +29,6 @@ $git diff feature-1 develop
 ------------
 Line 27 create in feature-1
 >>>>>>> feature-1
+| someting on branch feature-1|
+| using rebase to develop|
+| commit message update|
