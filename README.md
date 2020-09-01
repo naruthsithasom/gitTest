@@ -1,21 +1,6 @@
 <<<<<<< HEAD
-
-# using branch develop
-project:Github learning
-create: Naruth Sithasom
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
-
-spacebar2t = br__  
-fadsfads__   
-asdf
-
-*italic i*  
-=======
+# using branch develop  
+### create: Naruth Sithasom  
 # การใช้คำสั่ง markdown ใน git  
 # ใช้ # จะเท่าขนาด h1  
 ## ใช้ ## จะเท่าขนาด h2  
