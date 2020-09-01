@@ -6,4 +6,4 @@ $ git push
 remove file textFlow.txt
 
 $ git pull
-$ git merge
+dfgdsfg
