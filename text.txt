@@ -31,5 +31,11 @@ Add to github server
 when you update in branch 
 >>git pull origin master -r
 
+<<<<<<< HEAD
 Delete branch
 git branch -d cc
+=======
+>>git push --set-upstream origin NewBranch
+
+>>git merge slave_branchddsdsds
+>>>>>>> master
