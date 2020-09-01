@@ -5,5 +5,19 @@ $ git push
 
 remove file textFlow.txt
 
+$ git reset --hard //restore file removed
 $ git pull
-dfgdsfg
+
+
+Create branch
+$git checkout -b branch03
+
+Delete branch
+$git branch -d branch03
+
+Recovery branch
+$ git reflog
+bc9fd46
+bc9fd46
+bc9fd46
+$ git checkout -b branch03 bc9fd46

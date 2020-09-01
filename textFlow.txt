@@ -1,7 +1,0 @@
-Test git flow
-$ git add .
-$ git commit -m “title” -m “description”
-$ git push
-
-remove file textFlow.txt
-$ git reset --hard
