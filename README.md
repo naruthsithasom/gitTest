@@ -38,7 +38,7 @@ __bold__
 ---   
 # การแทรกรูปภาพ  
 ![this is a pic](https://user-images.githubusercontent.com/25115342/34331445-78c744c2-e959-11e7-8bfe-71db8b1fd267.png)  
-[แสดงชื่อใต้รูป thairath logo](https://user-images.githubusercontent.com/25115342/34331445-78c744c2-e959-11e7-8bfe-71db8b1fd267.png)  
+[แสดงชื่อlink ใต้รูป thairath logo](https://user-images.githubusercontent.com/25115342/34331445-78c744c2-e959-11e7-8bfe-71db8b1fd267.png)  
 ----  
 # การสร้างตาราง Table  
 | header 1 | header 2 |  
