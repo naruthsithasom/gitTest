@@ -4,3 +4,6 @@ $ git commit -m “title” -m “description”
 $ git push
 
 remove file textFlow.txt
+
+$ git pull
+$ git merge
