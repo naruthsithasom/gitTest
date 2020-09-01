@@ -1,1 +1,4 @@
 Test git flow
+$ git add .
+$ git commit -m “title” -m “description”
+$ git push
