@@ -34,7 +34,7 @@ __bold__
   * list 3.1
   * list 3.2  
 ---  
-### การใช้้ headline : 1.***, 2.___, 3.---  
+# การใช้ headline : 1.***, 2.___, 3.---  
 ---   
 # การแทรกรูปภาพ  
 ![this is a pic](https://user-images.githubusercontent.com/25115342/34331445-78c744c2-e959-11e7-8bfe-71db8b1fd267.png)  
