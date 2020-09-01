@@ -43,8 +43,10 @@ __bold__
 # การสร้างตาราง Table  
 | header 1 | header 2 |  
 --|--  
-| col1 | col2 |  
-| row1 | row2 |  
+| Col1 Row1 | Col2 Row1|  
+| Col1 Row2  | Col2 Row2  |  
+| Col1 Row3  | Col2 Row3  |  
+| Col1 Row4  | Col2 Row4  |  
 | **content** | _content_ |  
 ---  
 
